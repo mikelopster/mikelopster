@@ -1,4 +1,4 @@
-### Hi there, I'm Tanitphon Paniwan (Mike) 👋
+## Hi there, I'm Tanitphon Paniwan (Mike) 👋
 
 I'm just a programmer who enjoys sharing and spreading knowledge about coding.
 
