@@ -12,7 +12,7 @@ Mikelopster channel
 
 Resource Count for Mikelopster
 
-[![Mikelopster Content](https://mikelopster.dev/widgets/stats.svg?cache=2)](https://mikelopster.dev)
+[![Mikelopster Content](https://mikelopster.dev/widgets/stats.svg?cache=3)](https://mikelopster.dev)
 
 ## Contact me
 
