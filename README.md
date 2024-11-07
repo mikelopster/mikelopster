@@ -4,7 +4,11 @@ I'm just a programmer who enjoys sharing and spreading knowledge about coding.
 
 Currently, I'm managing a Facebook page, Youtube channel, and Blog, all under the name "mikelopster". I would be delighted if everyone joins to share and discuss with me. 
 
+## Content Stats
+
 [![Youtube Mikelopster](https://youtube-stats-card.vercel.app/api?channelid=UC3YgTINPYQmUcRt5ZcNFIZQ&theme=dark)](https://www.youtube.com/@mikelopster)
+
+[![Mikelopster Content](https://mikelopster.dev/widgets/stats.svg)](https://mikelopster.dev)
 
 ## Contact me
 
