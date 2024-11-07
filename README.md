@@ -10,7 +10,7 @@ Currently, I'm managing a Facebook page, Youtube channel, and Blog, all under th
 
 Resource Count for Mikelopster
 
-[![Mikelopster Content](https://mikelopster.dev/widgets/stats.svg)](https://mikelopster.dev)
+[![Mikelopster Content](https://mikelopster.dev/widgets/stats.svg?cache=2)](https://mikelopster.dev)
 
 ## Contact me
 
