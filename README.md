@@ -6,6 +6,8 @@ Currently, I'm managing a Facebook page, Youtube channel, and Blog, all under th
 
 ## Content Stats
 
+Mikelopster channel
+
 [![Youtube Mikelopster](https://youtube-stats-card.vercel.app/api?channelid=UC3YgTINPYQmUcRt5ZcNFIZQ&theme=dark)](https://www.youtube.com/@mikelopster)
 
 Resource Count for Mikelopster
